@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-10-30 02:02:48",
+  "generated_at": "2026-10-30 16:45:36",
   "input_entries": 68,
   "unique_urls": 68,
-  "valid_entries": 68,
-  "valid_channels": 68,
-  "invalid_entries": [],
+  "valid_entries": 67,
+  "valid_channels": 67,
+  "invalid_entries": [
+    {
+      "channel": "FilmRise Western",
+      "url": "https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8",
+      "error": "https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8: Invalid data found when processing input"
+    }
+  ],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -12,7 +18,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-3",
@@ -20,7 +26,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-7",
@@ -28,7 +34,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-10",
@@ -36,7 +42,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-11",
@@ -44,14 +50,14 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 73
     },
     {
@@ -68,7 +74,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "浙江卫视",
@@ -132,7 +138,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Sky News International",
@@ -172,7 +178,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -236,7 +242,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 87
     },
     {
       "channel": "Women's Sports Network",
@@ -244,7 +250,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "TSN The Ocho CA",
@@ -260,7 +266,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 90
     },
     {
       "channel": "CW Forever",
@@ -277,14 +283,6 @@
       "width": 1920,
       "height": 1080,
       "video_packets": 90
-    },
-    {
-      "channel": "FilmRise Western",
-      "url": "https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8",
-      "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 89
     },
     {
       "channel": "MGM Present",
@@ -308,7 +306,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "OuterSphere by Lionsgate",
@@ -332,7 +330,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "BritBox Mysteries UK",
@@ -436,7 +434,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "RMC Story FR",
@@ -444,7 +442,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "CTV @ Home CA",
@@ -452,7 +450,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "CTV Gets Real CA",
@@ -460,7 +458,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "CTV Laughs CA",
@@ -468,7 +466,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Stingray DJAZZ",
@@ -476,7 +474,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "XITE 80s Flashback",
@@ -484,7 +482,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE 90s Throwback",
@@ -492,7 +490,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Just Chill",
@@ -508,7 +506,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "XITE Rock x Metal",
@@ -516,7 +514,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "XITE Spring Vibes",
@@ -524,7 +522,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 71
+      "video_packets": 74
     },
     {
       "channel": "Deluxe RAP DE",

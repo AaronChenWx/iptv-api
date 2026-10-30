@@ -67,8 +67,6 @@ https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/
 https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
 #EXTINF:-1 tvg-id="US25000063S" tvg-name="CW Gold" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cw_fold._SL500_FMpng_.png" group-title="🎬影视剧场",CW Gold
 https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
-#EXTINF:-1 tvg-id="CAAJ27000159K" tvg-name="FilmRise Western" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_Western_FireTV_Logo_1920x1080._SL500_FMpng_.png" group-title="🎬影视剧场",FilmRise Western
-https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-name="MGM Present" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us._SL500_FMpng_.png" group-title="🎬影视剧场",MGM Present
 https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8
 #EXTINF:-1 tvg-id="MGM Present Horror" tvg-name="MGM Present Horror" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_horror._SL170_FMpng_.png" group-title="🎬影视剧场",MGM Present Horror
